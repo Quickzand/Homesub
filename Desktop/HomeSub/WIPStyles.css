@@ -1,0 +1,22 @@
+#WIPBody  {
+  width:75%;
+  margin:auto;
+}
+
+#header {
+  font-size: 60px;
+  text-align: center;
+
+}
+
+.bodySection {
+  margin-top:50px;
+  background-color:#b8c1b8;
+  width:100%;
+  
+  box-shadow: 10px 10px grey;
+  padding:15px;
+  font-size:25px;
+  line-height: 1.6;
+  text-align: center;
+}

@@ -1,0 +1,40 @@
+#welcomeHead {
+  text-align: center;
+  font-size: 80px;
+  text-decoration: underline;
+  padding-bottom:40px;
+  padding-top:10px;
+}
+
+.bodySection {
+  background-color:#b8c1b8;
+  width:500px;
+  height:500px;
+  box-shadow: 10px 10px grey;
+  padding:15px;
+}
+
+.bodyContent {
+  font-size:25px;
+  line-height: 1.6;
+}
+
+.bodyHeader {
+  text-align: center;
+  font-size:35px;
+  text-decoration: underline;
+  padding-bottom: 5px;
+}
+
+#homeBody  {
+  width:75%;
+  margin:auto;
+}
+
+#Explaination {
+  float:left;
+}
+
+#Usage {
+  float:right;
+}
